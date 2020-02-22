@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/code-decoded/code-decoded.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to *Code Decoded*! This blog explores famous and interesting software, and takes the reader on a gentle stroll through key concepts and components. If you've every wondered how bitcoin actually works, or what the JVM's really doing when it runs your code, but you don't want to spend an hour wading through the really fine details, you might enjoy the things I write. You'll probably get the most out of the blog if you know a little bit about coding, but if I'm doing my job right you'll mostly be able to learn as we go.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you stick around, we can take a gentle stroll through a topic that takes your fancy. When we're done, you'll hopefully feel like you have a good understanding of the ideas behind it. If it's a smaller project, you might feel able to have a go at implementing it yourself once you've finished reading; for larger topics you'll know the lay of the land well enough to go find out more if you're interested. Either way, it'll no longer feel like a mystery!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/code-decoded/code-decoded.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Here are some places you might want to get started:
+ - Lorem
+ - Ipsum
+ - Dolor sic amet
